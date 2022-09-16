@@ -9,13 +9,14 @@ All choices and organization balances are transparent and public available.
 Any DAO governance token holder can propose a change that's voted by other members.
 More detail on this will be released in a dedicated section. 
 
-## MEETUP
+## USER
 
-The word [MEETUP](#meetup) is used to indicate an online event. The event is scheduled on a specific date and time and [USER](#user) attends the event by joining an external streaming service. The meetup is created and hosted by one or more [ORGANIZER](#organizer) that are part of the [COMMUNITY](#community).
+Identified by a wallet address, [USER](#user) attends a [MEETUP](#meetup). Can leave a [TIP](#tip) after meetup ends. Can leave a [COMMENT](#comment) or [LIKE](#like) comments of other users.
 
-## NFT GATED MEETUP
+> Leaving a comment has a cost that becomes a profit for organizers of that specific meetup. The cost can be set up by organizers on Meetup creation or left blank for default.
+A symbolic % fee is applied by the [OPEN MEETUP DAO](#open-meetup-dao) on top of comment cost.
 
-It's a special Meetup that user can attend only if they own a specific NFT (set up on [MEETUP](#meetup) creation).
+> Leave a like has a cost and profit is split 50/50 between meetup organizers and the user who left the comment.
 
 ## ORGANIZER
 
@@ -31,14 +32,13 @@ Group of people with common interests. It's the sum of [USER](#user)s and [ORGAN
 The creator of the [COMMUNITY](#community). This ownership is transferable. The community founder can assign the role of [ORGANIZER](#organizer) to community members.
 > Creating a new Community has a symbolic cost that goes to the [OPEN MEETUP DAO](#open-meetup-dao).
 
-## USER
+## MEETUP
 
-Identified by a wallet address, [USER](#user) attends a [MEETUP](#meetup). Can leave a [TIP](#tip) after meetup ends. Can leave a [COMMENT](#comment) o [LIKE](#like) comments of other users.
+The word [MEETUP](#meetup) is used to indicate an online event. The event is scheduled on a specific date and time and [USER](#user) attends the event by joining an external streaming service. The meetup is created and hosted by one or more [ORGANIZER](#organizer) that are part of the [COMMUNITY](#community).
 
-> Leaving a comment has a cost that becomes a profit for organizers of that specific meetup. The cost can be set up by organizers on Meetup creation or left blank for default.
-A symbolic % fee is applied by the [OPEN MEETUP DAO](#open-meetup-dao) on top of comment cost.
+## NFT GATED MEETUP
 
-> Leave a like has a cost and profit is split 50/50 between meetup organizers and the user who left the comment.
+It's a special Meetup that user can attend only if they own a specific NFT (set up on [MEETUP](#meetup) creation).
 
 ## COMMENT
 
