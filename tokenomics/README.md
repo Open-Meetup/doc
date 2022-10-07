@@ -2,7 +2,7 @@
 
 ## Project token
 
-The project token is an ERC20 Token named **"OpenMeetup Coin (OMC)"**.
+The project token is an ERC20 Token named [OpenMeetup Coin (OMC)](https://polygonscan.com/address/0x78fed223753e923e4d1bd0c6759b22055d7d9bef).
 
 #### Properties:
 - total supply: 11000000 OMT
