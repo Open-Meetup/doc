@@ -19,6 +19,6 @@ The project token is an ERC20 Token named [OpenMeetup Coin (OMC)](https://polygo
 - reward collaborators using https://dework.xyz/ 
 
 #### Current economic value:
-- 1 OMC = 0$
+- 1 OMC = 0.01 Matic [Uniswap Pool on Polygon](https://app.uniswap.org/#/pool/501098)
 (if someone wants to invest in the project can buy project tokens, after project launch, during private or public [ICOs](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp)).
 
